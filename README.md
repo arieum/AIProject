@@ -23,7 +23,6 @@ https://github.com/user-attachments/assets/7b4c78bf-8605-47c3-a49d-f3bfa738c906
 * [🧠️ 모델 (Models)](#%EF%B8%8F-%EB%AA%A8%EB%8D%B8-models)
 * [🧩 LLM & RAG](#-llm--rag)
 * [🧪 평가 & 벤치마크](#-평가--벤치마크)
-* [📁 리포지토리 구조](#-리포지토리-구조)
 * [📎 참고 문헌](#-참고-문헌)
 
 ---
@@ -155,25 +154,6 @@ https://github.com/user-attachments/assets/7b4c78bf-8605-47c3-a49d-f3bfa738c906
 <img width="769" height="414" alt="image" src="https://github.com/user-attachments/assets/fff98eb5-b6dc-41a4-85e0-3bf464559d41" />
 
 ---
-## 📁 리포지토리 구조
-
-```text
-voicephish-guard/
-  api/                # FastAPI 등 서버
-  app/                # Android (Kotlin) 클라이언트
-  web/                # 웹 데모(선택)
-  models/             # 체크포인트
-  data/               # 데이터 (raw/interim/processed)
-  docs/
-    img/              # 다이어그램/스크린샷
-    kb/               # RAG 지식 문서
-    reports/          # 실험 보고서/벤치마크
-  scripts/            # 학습/전처리/빌드 스크립트
-  benchmarks/         # 재현 가능한 벤치마크 스크립트
-  .env.example
-  requirements.txt
-  README_KO.md
-```
 
 ## 📎 참고 문헌
 
@@ -186,8 +166,7 @@ voicephish-guard/
 ## ETC
 - ⏳ 기간: 2025년 7월 28일 ~ 8월 27일
 - 🔗 보고서 링크: https://complete-margin-475.notion.site/25b9761f2ffc802fb2c1d87135ffb1f8?source=copy_link
-- 📊 PPT 링크: https://www.canva.com/design/DAGwT84bQpM/TRlVXLwO1ZA1H6Yqax5muQ/edit?utm_content=DAGwT84bQpM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+- 📊 PPT 링크: https://www.canva.com/design/DAGwT84bQpM/BJL5R8ba0e6PSUwtWgvFrw/view?utm_content=DAGwT84bQpM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1688711fc3
 
 ## 👥 팀원 소개
 
