@@ -1,5 +1,7 @@
 # 📞 POPIPOPI: 진화하는 보이스피싱에 맞서는 실시간 맞춤 대응
 
+<img width="600" height="1000" alt="image" src="https://github.com/user-attachments/assets/5211836d-c3ba-4aef-a0fa-606fca3e88d7" />
+
 ##  프로젝트 소개
 > **한 줄 요약**: 통화 내용을 실시간으로 STT → 탐지(분류기) → 법률·기관 근거 RAG → 행동 가이드까지 안내하는 보이스피싱 대응 플랫폼.
 
